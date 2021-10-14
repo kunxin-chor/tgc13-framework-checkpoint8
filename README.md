@@ -25,6 +25,7 @@ FLUSH PRIVILEGES;
 8. Run all migrations with `./db-migrate.sh up`
 
 # Sample .env file
+```
 CLOUDINARY_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
@@ -37,3 +38,4 @@ DB_HOST=localhost
 SESSION_SECRET_KEY=
 STRIPE_PUBLISHABLE_KEY=
 STRIPE_SECRET_KEY=
+```
